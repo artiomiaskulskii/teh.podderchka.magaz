@@ -1,0 +1,2 @@
+TOKEN = '8409279234:AAFlU428jWdAqrwOlGJYk284j8oTj6MZUL8'
+DATABASE = "support_question.db"
